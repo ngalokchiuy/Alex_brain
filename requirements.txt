@@ -1,0 +1,4 @@
+google-genai>=1.0.0
+pyperclip>=1.8.2
+markdown>=3.5.0
+genanki>=0.13.0
